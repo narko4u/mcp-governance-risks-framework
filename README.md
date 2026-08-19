@@ -1,5 +1,7 @@
 # MCP Governance & Risk Framework
 
+[![OpenSSF Best Practices - Baseline 1](https://www.bestpractices.dev/projects/14148/badge)](https://www.bestpractices.dev/projects/14148)
+
 A practical governance framework for organizations adopting the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/), the open standard that lets AI agents connect to external tools, data sources, and systems.
 
 MCP adoption is accelerating across engineering teams. Agents can read wikis, open pull requests, post to Slack, and trigger production workflows often at machine speed and without the user seeing every intermediate step. This repository provides a structured way to answer the central governance question:
