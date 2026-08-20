@@ -1,6 +1,6 @@
 # MCP Governance & Risk Framework
 
-[![OpenSSF Best Practices - Baseline 1](https://www.bestpractices.dev/projects/14148/badge)](https://www.bestpractices.dev/projects/14148)
+[![OpenSSF Best Practices - Baseline 1](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.bestpractices.dev%2Fprojects%2F14148.json&query=badge_percentage_baseline_1&label=OpenSSF%20Baseline%201)](https://www.bestpractices.dev/projects/14148)
 
 A practical governance framework for organizations adopting the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/), the open standard that lets AI agents connect to external tools, data sources, and systems.
 
